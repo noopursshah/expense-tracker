@@ -1,0 +1,136 @@
+{
+    "Budget limits": [],
+    "records": [
+        {
+            "month": "JAN",
+            "expenses": [
+                {
+                    "date": "groceries",
+                    "amount": 23,
+                    "description": "2023-01-01"
+                },
+                {
+                    "date": "xyz",
+                    "amount": 45,
+                    "description": "2023-01-09"
+                },
+                {
+                    "date": "xyz",
+                    "amount": 45,
+                    "description": "2023-01-09"
+                },
+                {
+                    "date": "xyx",
+                    "amount": 23,
+                    "description": "2023-01-09"
+                },
+                {
+                    "date": "bday",
+                    "amount": 76,
+                    "description": "2023-01-01"
+                },
+                {
+                    "date": "sass",
+                    "amount": 67,
+                    "description": "2023-01-08"
+                },
+                {
+                    "date": "sass",
+                    "amount": 67,
+                    "description": "2023-01-08"
+                },
+                {
+                    "date": "groceries",
+                    "amount": 45,
+                    "description": "2023-01-03"
+                },
+                {
+                    "date": "textbook",
+                    "amount": 90,
+                    "description": "2023-01-25"
+                },
+                {
+                    "date": "uber",
+                    "amount": 59,
+                    "description": "2023-01-04"
+                },
+                {
+                    "date": "ice cream",
+                    "amount": 11,
+                    "description": "2023-01-10"
+                },
+                {
+                    "date": "groceries",
+                    "amount": 45,
+                    "description": "2023-01-03"
+                },
+                {
+                    "date": "ss",
+                    "amount": 21,
+                    "description": "2023-01-01"
+                },
+                {
+                    "date": "groceries",
+                    "amount": 23,
+                    "description": "2023-01-09"
+                },
+                {
+                    "date": "xyz",
+                    "amount": 12,
+                    "description": "2023-01-08"
+                }
+            ]
+        },
+        {
+            "month": "AUG",
+            "expenses": [
+                {
+                    "date": "arni",
+                    "amount": 109.65,
+                    "description": "2023-01-30"
+                },
+                {
+                    "date": "sass",
+                    "amount": 67,
+                    "description": "2023-01-08"
+                }
+            ]
+        },
+        {
+            "month": "FEB",
+            "expenses": [
+                {
+                    "date": "groceries",
+                    "amount": 21,
+                    "description": "2023-02-01"
+                },
+                {
+                    "date": "textbook",
+                    "amount": 78,
+                    "description": "2023-02-14"
+                },
+                {
+                    "date": "textbook",
+                    "amount": 100,
+                    "description": "2023-02-14"
+                },
+                {
+                    "date": "groceries",
+                    "amount": 21,
+                    "description": "2023-02-01"
+                }
+            ]
+        },
+        {
+            "month": "APR",
+            "expenses": [{
+                "date": "movie",
+                "amount": 76,
+                "description": "2023-04-28"
+            }]
+        }
+    ],
+    "recordLength": 4,
+    "Account balance": 5365.35,
+    "BudgetListLength": 0
+}

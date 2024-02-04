@@ -1,0 +1,16 @@
+{
+    "Budget limits": [],
+    "records": [
+        {
+            "month": "JAN",
+            "expenses": []
+        },
+        {
+            "month": "FEB",
+            "expenses": []
+        }
+    ],
+    "recordLength": 2,
+    "Account balance": 500,
+    "BudgetListLength": 0
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "month": "JAN",
+        "expenses": [
+            {
+                "date": "2023-01-15",
+                "amount": 50,
+                "description": "Groceries"
+            },
+            {
+                "date": "2023-01-20",
+                "amount": 30,
+                "description": "Dining out"
+            }
+        ]
+    },
+    {
+        "month": "FEB",
+        "expenses": [{
+            "date": "2023-02-10",
+            "amount": 75,
+            "description": "Shopping"
+        }]
+    }
+]
