@@ -37,18 +37,18 @@ As a user I should be able to:
 
 ***PHASE 4: TASK 2***
 
-All logged events:
-Expense added at Wed Nov 29 14:14:03 PST 2023
-Expense added at Wed Nov 29 14:14:17 PST 2023
-Expense added at Wed Nov 29 14:14:36 PST 2023
-Expense added at Wed Nov 29 14:14:52 PST 2023
-Expenses sorted by Amount at Wed Nov 29 14:14:55 PST 2023
-Undo add expense at Wed Nov 29 14:14:59 PST 2023
-Expenses sorted by Amount at Wed Nov 29 14:15:07 PST 2023
-Expense removed at Wed Nov 29 14:15:36 PST 2023
-Budget limit set for JAN at Wed Nov 29 14:15:38 PST 2023
-Data has been loaded for FEB at Wed Nov 29 14:15:59 PST 2023
-Saved all data at Wed Nov 29 14:16:15 PST 2023
+All logged events:  
+Expense added at Wed Nov 29 14:14:03 PST 2023  
+Expense added at Wed Nov 29 14:14:17 PST 2023  
+Expense added at Wed Nov 29 14:14:36 PST 2023  
+Expense added at Wed Nov 29 14:14:52 PST 2023  
+Expenses sorted by Amount at Wed Nov 29 14:14:55 PST 2023  
+Undo add expense at Wed Nov 29 14:14:59 PST 2023  
+Expenses sorted by Amount at Wed Nov 29 14:15:07 PST 2023  
+Expense removed at Wed Nov 29 14:15:36 PST 2023  
+Budget limit set for JAN at Wed Nov 29 14:15:38 PST 2023  
+Data has been loaded for FEB at Wed Nov 29 14:15:59 PST 2023  
+Saved all data at Wed Nov 29 14:16:15 PST 2023  
 
 ***PHASE 4: TASK 3***
 
